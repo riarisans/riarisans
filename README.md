@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riarisans
-- 👀 I’m interested in Windows/Android Reversing
+- 👀 I’m interested in Windows/Android Reversing and Network
 - 🌱 I’m currently learning Algorithm at noj.am
 - 📫 How to reach me : Discord 8161#5334
 
