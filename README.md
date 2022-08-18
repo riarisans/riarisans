@@ -1,4 +1,4 @@
-<div align=center><h1>📚 I'm interested in</h1></div>
+<h1>📚 I'm interested in</h1></div>
 
 - C++
 - C#
